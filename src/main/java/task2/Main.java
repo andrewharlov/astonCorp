@@ -15,7 +15,7 @@ public class Main {
         if (string1.equals(string2)){
             System.out.println("Strings are equal");
         } else {
-            System.out.println("String are not equal");
+            System.out.println("Strings are not equal");
         }
     }
 }
